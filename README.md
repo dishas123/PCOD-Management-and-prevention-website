@@ -71,4 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # PCOD-Management-and-prevention-website
+![image](https://github.com/user-attachments/assets/6328129c-5977-465a-9592-48b97a9c5995)
+
 >>>>>>> e242fb013ead216fc7f756edbef73068545182a0
